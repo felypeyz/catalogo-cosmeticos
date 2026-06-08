@@ -1,1 +1,1 @@
-# Catálogo Premium de Cosméticos para GitHub Pages
+# Catálogo Premium de Cosméticos 
